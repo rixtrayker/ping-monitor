@@ -1,5 +1,5 @@
 {
-  "name": "ping-monitor",
+  "name": "ping-monitor-fork",
   "version": "0.8.1",
   "description": "Website Uptime Event Emitter",
   "main": "app.js",
