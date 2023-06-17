@@ -1,6 +1,6 @@
 {
   "name": "ping-monitor",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "Website Uptime Event Emitter",
   "main": "app.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/qawemlilo/node-monitor.git"
+    "url": "https://github.com/rixtrayker/ping-monitor.git"
   },
   "keywords": [
     "monitor",
@@ -20,7 +20,7 @@
     "network",
     "server"
   ],
-  "author": "Qawelesizwe Mlilo",
+  "author": "Amr Elsayed",
   "license": "MIT",
   "engines": {
     "node": ">=12.x",
